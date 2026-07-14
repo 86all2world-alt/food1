@@ -1,0 +1,6 @@
+{
+  "name": "이달의 제철 보약 창고",
+  "description": "학교 영양교사가 디자인하는 모바일 제철 식재료 학생 교육용 대시보드 및 NotebookLM 맞춤형 프롬프트 설계기",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
